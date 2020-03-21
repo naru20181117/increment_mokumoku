@@ -150,7 +150,7 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 - Problem: わるかったこと・課題感をかんじたこと
 - Try: これやってみたいとおもったこと
 
-投稿先 => [HACK md](https://hackmd.io)
+投稿先 => [HACK md](https://hackmd.io/@JGVfSJaQTSG3N54ljpgoJw/H12_yl7II/edit)
 
 ---
 
@@ -160,5 +160,6 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 そのまま作業続けても大丈夫です！
 ありがとう御座いました！😇
+ゆっくりと飲み会に移行しましょう！！🍷
 
 ---
