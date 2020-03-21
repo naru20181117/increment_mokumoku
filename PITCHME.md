@@ -8,7 +8,8 @@ hashtag : [#incrementmokumoku](https://twitter.com/hashtag/incrementmokumoku)
 
 ## What' increment もくもく?
 
-駆け出しエンジニアが **練習の場としてプログラミング/LT** するための場
+駆け出しエンジニアが
+**練習の場としてプログラミング/LT** するための場
 
 
 ---
@@ -24,7 +25,7 @@ hashtag : [#incrementmokumoku](https://twitter.com/hashtag/incrementmokumoku)
 
 ## 会場 👏
 
-![](/assets/images/ncrement_even_space.jpg)
+![](/assets/images/increment_event_space.jpg)
 
 [URL](https://www.spacemarket.com/spaces/azabudaikamiya/rooms/TDWBbzsei0hwqpTx)
 
