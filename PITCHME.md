@@ -1,6 +1,6 @@
 ## Increment Mokumoku
 
-![](/assets/images/shinjuku-mokumoku-banner.png)
+![](/assets/images/increment_image_2.png)
 
 hashtag : [#incrementmokumoku](https://twitter.com/hashtag/incrementmokumoku)
 
@@ -15,25 +15,31 @@ hashtag : [#incrementmokumoku](https://twitter.com/hashtag/incrementmokumoku)
 
 ## Incrementメンバーたち
 
-| [Naru](https://twitter.com/1026NT) | [Shun](https://twitter.com/syu_sss) | [Suzuki](https://twitter.com/1112_suzuki) | [Wakki](https://twitter.com/keita_frog23) | [Yori](https://twitter.com/yoriblog) | [Tama](https://twitter.com/1026NT) | [Ryu](https://twitter.com/ray_20500)
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-| ![](https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4) | ![](https://avatars1.githubusercontent.com/u/50896582?s=100&u=3dda2303711be850b2c717513e10592a76050db0&v=4) | ![](https://avatars0.githubusercontent.com/u/57358551?s=100&u=a7916448de3fcc7b2c420d92e2a2ff3c160b0c8d&v=4) | ![](https://avatars2.githubusercontent.com/u/47708232?s=100&u=4300a03ff3b6df0ad49fd113aaf1a81c8920183a&v=4) | ![](https://avatars2.githubusercontent.com/u/47884591?s=100&v=4) | ![](https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4)　|  <img src="https://avatars1.githubusercontent.com/u/49740401?s=100&v=4" width="100">
+| [Naru](https://twitter.com/1026NT) | [Shun](https://twitter.com/syu_sss) | [Suzuki](https://twitter.com/1112_suzuki) | [Wakki](https://twitter.com/keita_frog23) | [Yori](https://twitter.com/yoriblog) | [Ryu](https://twitter.com/ray_20500)
+| :---: | :---: | :---: | :---: | :---: | :---: | :---:
+| ![](https://avatars1.githubusercontent.com/u/45118406?s=100&u=7a8a177afc05cd1abd42bbe0b4bc53fdf4d56afa&v=4) | ![](https://avatars1.githubusercontent.com/u/50896582?s=100&u=3dda2303711be850b2c717513e10592a76050db0&v=4) | ![](https://avatars0.githubusercontent.com/u/57358551?s=100&u=a7916448de3fcc7b2c420d92e2a2ff3c160b0c8d&v=4) | ![](https://avatars2.githubusercontent.com/u/47708232?s=100&u=4300a03ff3b6df0ad49fd113aaf1a81c8920183a&v=4) | ![](https://avatars2.githubusercontent.com/u/47884591?s=100&v=4)　|  <img src="https://avatars1.githubusercontent.com/u/49740401?s=100&v=4" width="100">
 
 ---
 
 
 ## 会場 👏
 
-![](/assets/images/sponsers/repro-logo-colored.png)
+![](/assets/images/ncrement_even_space.jpg)
+
+[URL](https://www.spacemarket.com/spaces/azabudaikamiya/rooms/TDWBbzsei0hwqpTx)
 
 ---
 
 ## Facilities
 
-- WiFiあります。SSID/PWは[こちら](https://www.gaiax.co.jp/community-checkedin/)を参照してください。
+- WiFiあります。SSID/PWは以下。
+```
+SSID(2.4GHz）:WXHM_N31_91b63c-g
+SSID(5GHz):WXHM_N31_91b63c-a
+暗号化キー:07f8f72b02773
+```
 - 喫煙所はないです。外でお願いします
-- トイレはどのフロアにもあります
-- 飲食自由です。また、水・コーヒー、自由に飲んで頂いて結構です
+- 飲食自由です。自由に飲み食いして頂いて結構です
 - 電源あります。足りない場合はお声がけください
 
 ---
@@ -50,6 +56,9 @@ hashtag : [#incrementmokumoku](https://twitter.com/hashtag/incrementmokumoku)
 ## Communication
 
 相談や質問にはぜひ[slack](https://increment-yourself.slack.com/) に回毎のチャネルを設けていますので、ぜひご利用ください
+
+#### チャンネル名
+`#200321_increment_event`
 
 ---
 
@@ -87,22 +96,9 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## Prepare Check-In
 
-~~自己紹介とやることの宣言を書いたPull Requestを出します。~~
+自己紹介とやることの宣言をを[slack](https://increment-yourself.slack.com/)でお願いします
 
-~~詳しくは[connpass]()を参照ください 🙏~~
-
-もうみんな知ってるよね！！
-
----
-
-## Check-In!
-
-早速 check-in を始めます!
-
-1-3min / person
-
-[slack](https://increment-yourself.slack.com/)
-
+テンプレート
 ```
 # <your_handle>
 
@@ -116,6 +112,15 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 
 ## 今日の成果
 ```
+---
+
+## Check-In!
+
+早速 check-in を始めます!
+
+1-3min / person
+
+[slack](https://increment-yourself.slack.com/)
 
 ---
 
@@ -128,8 +133,8 @@ check-inにてやることを宣言し、check-outにて成果を発表します
 ## Prepare Check-out
 
 - 今日の成果項を更新し[slack](https://increment-yourself.slack.com/)に書いてください 🎉
-- Zoomを使います。はじめての方は使い方はこちらを参照し、テストをしてみてください
-
+- Zoomを使います。はじめての方は使い方は[こちら](https://zoom.us/jp-jp/meetings.html)を参照してみてください
+[ZoomURL](https://zoom.us/j/523317715)
 ---
 
 ## Check-Out
